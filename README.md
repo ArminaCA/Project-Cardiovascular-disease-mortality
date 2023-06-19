@@ -38,3 +38,48 @@ The data visualization provided understanding on the distribution of insurance t
 **Private Only:** The "Private Only" bar showed the percentage of people with private health insurance only. Employers, individuals, and organizations offered private insurance. The bar's height showed private insurance's involvement in healthcare was more popular among the people. 
 
 **Uninsured:** The "Uninsured" bar showed the percentage of people without health insurance. These people lacked insurance. Understanding the uninsured population helps reveal healthcare gaps and needs support.
+
+Findings from the Linear Regression Equations, Visualizations,  & R-values:
+In the Regression by Average state Income & Mortality-Coronary Heart Disease of Ages 35-64 years, the coefficient was -0.69217, which showed there was inverse (moderate negative) relationship betweem both the variables (i.e., as the average state income increases by $1, the mortality rate by Coronary heart disease declined by 0.00126 persons for the age group 35-64 years). Furthemore, the graph of regression also revealed the small error variance as the scatter dots were close to regression line. Moreover within the same disease category, similar results were found with a coefficient of -0.31189 with weak negative relationhsip and small error variance; here, as the average state income increased by $1, the mortality rate by CDH declines by 0.00284 persons for the age group 65+).
+
+In the Regression by average state Income & Mortality-Stroke of Ages 35-64 years and 65+ years, the coefficinet was -0.64209 and -0.55624, respectively. The slope was downward slopping which showed there exist inverse relationship betweem both the variables; however, the relationship was moderate for both age groups. Specifically, for age groups 35-64 and 65+ years, as the median income increases by $1, the mortality rate by stroke declined by 0.0003 and 0.00178 persons, respectively. Further, the graphs of regression also revealed the large error variance as the scatter dots were away from to regression line.
+
+
+
+
+
+# Findings (Relationship between Mortality by CHD and Lower & Higher Average Individuals Aged 35-64 years)
+In this case, we are conducting a t-test to compare the mean mortality rate by Coronary Heart Disease between two groups: individuals aged 35-64 years in the lower average income group and individuals aged 35-64 years in the higher average income group. The null hypothesis assumes that there is no significant difference in the mean mortality rate between these two groups, while the alternative hypothesis suggests that there is indeed a significant difference in the mean mortality rate between the groups. Hypothesis are presented below:
+
+**Null Hypothesis (H₀):** There is no significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 35-64 years in the lower and higher average income groups.
+
+**Alternative Hypothesis (H₁):** There is a significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 35-64 years in the lower and higher average income groups.
+
+The results show the p value is significant, therefore we reject the null hypothesis "There is no significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 35-64 years in the lower and higher average income groups". It means that average income does play siginificant role on the mortality rate.
+
+# Findings (Relationship between Mortality by CHD and Lower & Higher Average Individuals Aged 65+ years)
+In this case, we are conducting a t-test to compare the mean mortality rate by Coronary Heart Disease between two groups: individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group. The null hypothesis assumes that there is no significant difference in the mean mortality rate between these two groups, while the alternative hypothesis suggests that there is indeed a significant difference in the mean mortality rate between the groups.
+
+**Null Hypothesis (H₀):** There is no significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 65+ years in the lower and higher average income groups.
+
+**Alternative Hypothesis (H₁):** There is a significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 65+ years in the lower and higher average income groups.
+
+The results show the p value is significant, therefore we reject the null hypothesis "There is no significant difference in the mean mortality rate by Coronary Heart Disease among individuals aged 65+ years in the lower and higher average income groups". It means that average income does play siginificant role on the mortality rate among individuals aged 65+ years.
+
+# Findings (Relationship between Mortality by Stroke and Lower & Higher Average Individuals Aged 35-64 years)
+The null hypothesis assumes that there is no difference in the mortality rate by stroke between the two income groups, while the alternative hypothesis suggests that there is a significant difference.
+
+**Null Hypothesis (H0):** There is no significant difference in the mortality rate by stroke between individuals aged 35-64 years in the lower and higher average income groups.
+
+**Alternative Hypothesis (H1):** There is a significant difference in the mortality rate by stroke between individuals aged 35-64 years in the lower and higher average income groups.
+
+The t-test was used to determine whether the observed difference in mortality rates is statistically significant. And test results reveal the p value is significant, therefore we reject the null hypothesis. There is a significant difference in the mortality rate by stroke between individuals aged 35-64 years in the lower and higher average income groups.
+
+# Findings (Relationship between Mortality by Stroke and Lower & Higher Average Individuals Aged 65+ years)
+In this case, the null hypothesis assumes that there is no difference in the mortality rate by stroke between the two income groups, while the alternative hypothesis suggests that there is a significant difference between the two groups. Hypothesis are presented below:
+
+**Null hypothesis (H0):** There is no significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group.
+
+**Alternative hypothesis (H1):** There is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group.
+
+By conducting a t-test, we analyzed the data and evaluate whether the evidence supports rejecting the null hypothesis in favor of the alternative hypothesis. As the results shows the p-value is less than or equal to the specified significance level of 0.05, the null hypothesis is rejected. It means that average income does play siginificant role on the mortality rate by stroke among individuals aged 65+ years and there is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group. There is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group.
