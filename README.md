@@ -13,6 +13,24 @@ Our findings will help in advancing understanding regarding how social determi
 
 
 # EDA Analysis:
+# Dataset Sources**
+1- United States 2018 Census Tract Data2
+2- Rates and Trends in Coronary Heart Disease and Stroke Mortality Data Among US Adults (35+) by County – 1999-20183
+**Two Disease Types**
+1- Coronary Heart Disease (CDH)
+2- Stroke
+**Two Age Groups**
+1- Ages 35-64 years old
+2- Ages 65 years and older
+
+# Merging Datasets**
+**Selected relevant columns
+2018 Data only
+Averaged income per state
+Separated education into two levels:** 
+-Above High School Degree
+-High School Degree and Below
+
 # Findings from Visualization of the distribution of income levels across different states:
 From the visualization of the distribution of income levels across different states. We were able to do comparisons between states and reveal a pattern in income distribution across the dataset. The ascending bars showed the range of state average income values, indicating that different states had a varying income level. States with lower bars indicated relatively lower average incomes, while states with higher bars represented relatively higher average incomes. The New Jersey (NJ) and Connecticut (CT) states had the highest bars on the graph that indicated these states had highest average income levels. Whereas Mississippi (MS) state was with the lowest bar and represented that it had lowest average income levels. The differences in bar heights revealed the disparities in income distribution across the states within USA. A significant variation in bar heights suggested a larger income disparity between the highest and lowest average incomes among the states. This indicated the presence of income inequality within the dataset. The lowest average income level state MS had $38,350.88 as income and the highest average income level state NJ had $83,854.97 average income.
 
