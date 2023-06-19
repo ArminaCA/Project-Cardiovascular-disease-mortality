@@ -113,3 +113,10 @@ In this case, the null hypothesis assumes that there is no difference in the mor
 **Alternative hypothesis (H1):** There is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group.
 
 By conducting a t-test, we analyzed the data and evaluate whether the evidence supports rejecting the null hypothesis in favor of the alternative hypothesis. As the results shows the p-value is less than or equal to the specified significance level of 0.05, the null hypothesis is rejected. It means that average income does play siginificant role on the mortality rate by stroke among individuals aged 65+ years and there is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group. There is a significant difference in the mortality rate by stroke between individuals aged 65+ years in the lower average income group and individuals aged 65+ years in the higher average income group.
+
+# BIBLIOGRAPHY
+National Center for Health Statistics. Multiple Cause of Death 2018–2021 on CDC WONDER Database. Accessed February 2, 2023.
+
+Tsao CW, Aday AW, Almarzooq ZI, Beaton AZ, Bittencourt MS, Boehme AK, et al. Heart Disease and Stroke Statistics—2023 Update: A Report From the American Heart Association. Circulation. 2023;147:e93–e621.
+
+National Center for Health Statistics. Percentage of coronary heart disease for adults aged 18 and over, United States, 2019—2021. National Health Interview Survey. Accessed February 17, 2023.
