@@ -77,7 +77,7 @@ In the Regression by average state Income & Mortality-Stroke of Ages 35-64 years
 
 
 
-
+# **STATISTICAL ANALYSIS: Findings from T-TEST**
 # Findings (Relationship between Mortality by CHD and Lower & Higher Average Individuals Aged 35-64 years)
 In this case, we are conducting a t-test to compare the mean mortality rate by Coronary Heart Disease between two groups: individuals aged 35-64 years in the lower average income group and individuals aged 35-64 years in the higher average income group. The null hypothesis assumes that there is no significant difference in the mean mortality rate between these two groups, while the alternative hypothesis suggests that there is indeed a significant difference in the mean mortality rate between the groups. Hypothesis are presented below:
 
