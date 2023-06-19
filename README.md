@@ -7,7 +7,7 @@ Our main goal was to investigate the relation between social factors and the mor
 
 In order to acquire understanding of the relationship between the mortality rate from cardiovascular disease (Coronary heart disease and Stroke) and social variables (i-e. income, age groups, education level) ,we used data analysis and visualization techniques in Jupyter Notebook. This involved performing statistical tests (Linear Regression & T-test), looking at relationships, and generating visualizations like histogram plots, bar charts and scatter plots. 
 
-With the help of our exploratory analysis, we aimed to answer research questions such as: Does a higher income level correspond to a lower cardiovascular disease mortality rate? Are areas with better access to healthcare associated with lower mortality rates? How does educational attainment relate to cardiovascular disease mortality within different age groups and states.
+With the help of our exploratory analysis, we aimed to answer research questions such as: Does a higher income level correspond to a lower cardiovascular disease mortality rate? How does educational attainment relate to cardiovascular disease mortality within different age groups and states? Does insurance type affect the mortality rate of cardiovascular disease?
 
 Our findings will help in advancing understanding regarding how social determinants affect cardiovascular health outcomes. Policymakers, healthcare workers, and researchers may be able to use the knowledge gathered from this project to design targeted interventions and policies that would lower mortality rates from cardiovascular disease as well as improve population health.
 
