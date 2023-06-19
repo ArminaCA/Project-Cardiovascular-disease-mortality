@@ -69,13 +69,24 @@ The data visualization provided understanding on the distribution of insurance t
 
 **Uninsured:** The "Uninsured" bar showed the percentage of people without health insurance. These people lacked insurance. Understanding the uninsured population helps reveal healthcare gaps and needs support.
 
-Findings from the Linear Regression Equations, Visualizations,  & R-values:
+# Findings from the Linear Regression Equations, Visualizations,  & R-values:
 In the Regression by Average state Income & Mortality-Coronary Heart Disease of Ages 35-64 years, the coefficient was -0.69217, which showed there was inverse (moderate negative) relationship betweem both the variables (i.e., as the average state income increases by $1, the mortality rate by Coronary heart disease declined by 0.00126 persons for the age group 35-64 years). Furthemore, the graph of regression also revealed the small error variance as the scatter dots were close to regression line. Moreover within the same disease category, similar results were found with a coefficient of -0.31189 with weak negative relationhsip and small error variance; here, as the average state income increased by $1, the mortality rate by CDH declines by 0.00284 persons for the age group 65+).
 
 In the Regression by average state Income & Mortality-Stroke of Ages 35-64 years and 65+ years, the coefficinet was -0.64209 and -0.55624, respectively. The slope was downward slopping which showed there exist inverse relationship betweem both the variables; however, the relationship was moderate for both age groups. Specifically, for age groups 35-64 and 65+ years, as the median income increases by $1, the mortality rate by stroke declined by 0.0003 and 0.00178 persons, respectively. Further, the graphs of regression also revealed the large error variance as the scatter dots were away from to regression line.
 
+# Findings from Comparing High/Low Levels of Income AND Education with OVERALL Mortality
+**LOW INCOME-LOW EDUCATION:**
+Individuals with lower educational attainment with lower average income states may experience higher mortality rates per 100K population.
 
+**LOW INCOME-HIGH EDUCATION:**
+Individuals with higher education levels are associated with lower mortality rates despite in the lower average income state.
 
+**HIGH INCOME-HIGH EDUCATION:**
+Individuals with higher educational attainment with higher average income states may experience lower mortality rates per 100K population.
+
+**HIGH INCOME-LOW EDUCATION:**
+Individuals having higher education levels with lower average income are associated with higher mortality rates
+Hence, it can be concluded that education is important variable along side higher average income to understand the prevention of heart disease types and dietary suppliments.
 
 # **STATISTICAL ANALYSIS: Findings from T-TEST**
 # Findings (Relationship between Mortality by CHD and Lower & Higher Average Individuals Aged 35-64 years)
