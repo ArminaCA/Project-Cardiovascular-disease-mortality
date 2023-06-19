@@ -14,21 +14,33 @@ Our findings will help in advancing understanding regarding how social determi
 
 # EDA Analysis:
 # Dataset Sources**
+
 1- United States 2018 Census Tract Data2
+
 2- Rates and Trends in Coronary Heart Disease and Stroke Mortality Data Among US Adults (35+) by County – 1999-20183
 **Two Disease Types**
+
 1- Coronary Heart Disease (CDH)
+
 2- Stroke
+
 **Two Age Groups**
+
 1- Ages 35-64 years old
+
 2- Ages 65 years and older
 
 # Merging Datasets**
-**Selected relevant columns
-2018 Data only
-Averaged income per state
-Separated education into two levels:** 
+
+****Selected relevant columns**
+
+**2018 Data only**
+
+**Averaged income per state**
+**Separated education into two levels:** **
+
 -Above High School Degree
+
 -High School Degree and Below
 
 # Findings from Visualization of the distribution of income levels across different states:
